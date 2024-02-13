@@ -1,5 +1,5 @@
 ### Sample Basic Project
-- Feature:
+- Features:
   - Mongo DB
   - Mysql DB
   - REDIS
