@@ -1,7 +1,8 @@
 ### Sample Basic Project
-** Mongo DB
-* Mysql DB
-* REDIS
-
-* compile - npm run webpack:dev
-* run - npm run webpack
+* Feature:
+  Mongo DB
+  Mysql DB
+  REDIS
+* Process
+compile - npm run webpack:dev
+run - npm run webpack
