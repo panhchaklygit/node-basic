@@ -5,6 +5,6 @@
   - REDIS
 * Process:
 - compile
-$ npm run webpack:dev
+- $ npm run webpack:dev
 - run
-$ npm run webpack
+- $ npm run webpack
